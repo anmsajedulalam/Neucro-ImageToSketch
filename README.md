@@ -1,4 +1,4 @@
-# Image Processing Practice 101 By Sajid ( Image To Sketch Conversion )
+# Image Processing Project By Sajid ( Image To Sketch Conversion )
 
 # Step 1: Importing Libraries Of Numpy and OpenCV
 
